@@ -1,0 +1,15 @@
+{
+  "name": "functional-js-playground",
+  "version": "0.0.0",
+  "description": "Functional JS playground",
+  "main": "index.js",
+  "repository": "https://github.com/SimonJang/functional-js-playground.git",
+  "author": "Simon Jang <simon.jang.contact@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "crocks": "^0.9.3",
+    "lodash": "^4.17.10",
+    "ramda": "^0.25.0"
+  }
+}
