@@ -10,7 +10,7 @@
 
 # Functional Javascript playground
 
-Playground for functional programming with Javascript. This repository will contain examples and problems solved in a FP way.
+Playground for functional programming with Javascript.
 
 ## Plain Javascript
 ## Using Ramda
