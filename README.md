@@ -1,7 +1,8 @@
 <!-- TOC -->
 
-- [Functional Javascript playground](#function-javascript-playground)
-    - [Plain Javascript](#plain-javascript)
+- [Functional Javascript playground](#functional-javascript-playground)
+    - [Javascript](#javascript)
+    - [Typescript](#typescript)
     - [Using Ramda](#using-ramda)
     - [Using Lodash](#using-lodash)
     - [Using Crocks](#using-crocks)
@@ -12,7 +13,8 @@
 
 Playground for functional programming with Javascript.
 
-## Plain Javascript
+## Javascript
+## Typescript
 ## Using Ramda
 ## Using Lodash
 ## Using Crocks
