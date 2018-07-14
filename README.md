@@ -11,7 +11,7 @@
 
 # Functional Javascript playground
 
-Playground for functional programming with Javascript.
+Playground for functional programming with Javascript
 
 ## Javascript
 ## Typescript
